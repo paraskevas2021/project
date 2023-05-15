@@ -1,6 +1,3 @@
-# Giannakopoulos Paraskevas 321/2020040
-# Konstantaras Ioannis 321/2020105
-# Anagnostopoulos Georgios 321/2020010
 import requests
 import re
 import csv
