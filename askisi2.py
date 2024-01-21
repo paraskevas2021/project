@@ -1,6 +1,4 @@
-# Giannakopoulos Paraskevas 321/2020040
-# Konstantaras Ioannis 321/2020105
-# Anagnostopoulos Georgios 321/2020010
+
 import csv
 import pandas as pd
 import matplotlib.pyplot as plt
